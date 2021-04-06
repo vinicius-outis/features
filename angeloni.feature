@@ -1,3 +1,5 @@
+# language: pt
+
 Funcionalidade: Tela de Produto Angeloni
 
     Cenario: Visualizar primeiro produto

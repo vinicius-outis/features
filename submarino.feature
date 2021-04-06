@@ -1,3 +1,5 @@
+# language: pt
+
 Funcionalidade: Visualizar produtos mais buscados
 
     Cenario: Ver produtos mais buscados na categoria Iphone

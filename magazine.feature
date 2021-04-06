@@ -1,3 +1,5 @@
+# language: pt
+
 Funcionalidade: Produto no Carrinho Magazine Luiza
 
     Cenario: Adicionar produto Computador ao carrinho
