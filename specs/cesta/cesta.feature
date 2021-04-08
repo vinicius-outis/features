@@ -1,7 +1,7 @@
 #language: pt 
  
 Funcionalidade: Página da Cesta
-    Contexto: Confirmar compra
+    Esquema do Cenário:: Confirmar compra
     Dado que esteja na página da cesta
     E que o usuário esteja <modo_usuario>
     Quando selecionar a quantidade

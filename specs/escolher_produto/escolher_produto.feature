@@ -16,7 +16,7 @@ Funcionalidade: Escolher produto para compra
         | moda , beleza    |
         | brinquedos       |
 
-    Esquema do Cenário: Escolher produto
-        Dado que esteja na categoria desejada
+    Cenário: Escolher produto
+        Dado que esteja no departamento desejado
         Quando selecionar produto
         Então deverá ser aberto o produto
